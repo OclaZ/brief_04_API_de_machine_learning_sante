@@ -6,7 +6,6 @@ from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
-from sklearn.metrics import r2_score, mean_squared_error
 
 
 def load_data():   
@@ -80,7 +79,7 @@ rf_grid = GridSearchCV(pipeline,RF_param_grid,cv=5, n_jobs=-1, scoring ='accurac
 rf_grid.fit(x_train, y_train)
 best_model = rf_grid.best_estimator_
 test_accuracy2 = best_model.score(x_test, y_test)
-# print(f"Test random foresst regression classifier: {test_accuracy2}")
+print(f"Test random foresst regression classifier: {test_accuracy2}")
 
 
 ## Save the best model
