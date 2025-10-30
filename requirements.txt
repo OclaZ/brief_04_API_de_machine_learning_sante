@@ -6,3 +6,4 @@ sqlalchemy
 pydantic 
 joblib
 pytest
+httpx
