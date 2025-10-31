@@ -23,7 +23,8 @@ exemple :
 }
 ```
 exemple de reponse :
-```{
+```
+{
         age": 55,
         "gender": 1,
         "pressurehight": 140,
