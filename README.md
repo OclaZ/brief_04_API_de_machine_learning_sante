@@ -10,6 +10,7 @@ L’objectif est de concevoir une API REST capable de :
 - Retourner la probabilite de risque predite par le modele  
 - Fournir une documentation interactive Swagger pour tester facilement les endpoints:
 exemple :
+```
 {
       "age": 55,
         "gender": 1,
@@ -20,8 +21,9 @@ exemple :
         "troponin": 0.03,
         "impulse": 80
 }
+```
 exemple de reponse :
-{
+```{
         age": 55,
         "gender": 1,
         "pressurehight": 140,
@@ -31,4 +33,4 @@ exemple de reponse :
         "troponin": 0.03,
         "impulse": 80
         "status" : 1  !!!
-}
+}```
