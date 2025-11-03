@@ -51,9 +51,7 @@ L’objectif est de concevoir une API REST capable de :
 }
 ```
 📤 Exemple de réponse
-```
-json
-
+```json
 {
   "age": 55,
   "gender": 1,
