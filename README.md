@@ -49,9 +49,11 @@ L’objectif est de concevoir une API REST capable de :
   "troponin": 0.03,
   "impulse": 80
 }
+```
 📤 Exemple de réponse
+```
 json
-Copy code
+
 {
   "age": 55,
   "gender": 1,
@@ -63,4 +65,5 @@ Copy code
   "impulse": 80,
   "status": 1
 }
-<div align="center"> <p>👨‍💻 Projet réalisé par <strong><a href="https://github.com/OclaZ">OclaZ</a></strong> | Simplon Maghreb</p> </div> ```
+```
+<div align="center"> <p>👨‍💻 Projet réalisé par <strong><a href="https://github.com/OclaZ">OclaZ</a></strong> et <strong><a href="https://github.com/OclaZ](https://github.com/Lhcenzetta">LAHCEN AIT ZETTA</a></strong> | Simplon Maghreb</p> </div> 
