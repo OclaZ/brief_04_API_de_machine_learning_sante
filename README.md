@@ -64,4 +64,4 @@ L’objectif est de concevoir une API REST capable de :
   "status": 1
 }
 ```
-<div align="center"> <p>👨‍💻 Projet réalisé par <strong><a href="https://github.com/OclaZ">OclaZ</a></strong> et <strong><a href="https://github.com/OclaZ](https://github.com/Lhcenzetta">LAHCEN AIT ZETTA</a></strong> | Simplon Maghreb</p> </div> 
+<div align="center"> <p>👨‍💻 Projet réalisé par <strong><a href="https://github.com/OclaZ">OclaZ</a></strong> et <strong><a href="https://github.com/Lhcenzetta">LAHCEN AIT ZETTA</a></strong> | Simplon Maghreb</p> </div> 
